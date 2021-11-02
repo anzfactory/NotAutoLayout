@@ -88,7 +88,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "NotAutoLayout/NotAutoLayout/**/*.{h,m,swift}"
+  s.source_files  = "Sources/NotAutoLayout/**/*.{h,m,swift}"
   # s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "NotAutoLayout/NotAutoLayout/NotAutoLayout.h"
